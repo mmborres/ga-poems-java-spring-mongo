@@ -12,6 +12,6 @@
 
 ![Humor Poem API in Use](browser1.png "Poem API in use")
 
-Random Poem (Responsive screen)
+### Random Poem (Responsive screen)
 
 ![Humor Poem](ga-poem.png "Poem")
