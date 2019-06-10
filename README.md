@@ -1,4 +1,4 @@
-# Humor Poems for GA SEI 31
+# Humor Poems API for GA SEI 31
 
 ## MongoDB Atlas using Spring Framework (Java) REST Service
 
@@ -7,3 +7,5 @@
 #### Usage: Select API Link above. Refresh browser to get a random poem.
 
 #### API used in [Cheer-Me-App](https://cheer-me-app.herokuapp.com/) Project
+
+![Humor Poem API in Use](browser1.png "Poem API in use")
