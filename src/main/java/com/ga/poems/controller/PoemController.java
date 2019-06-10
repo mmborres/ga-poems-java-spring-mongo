@@ -13,8 +13,8 @@ import com.ga.poems.repository.PoemRepository;
 @Controller
 public class PoemController {
 	
-	@Autowired
-	PoemRepository poemrepository;
+    @Autowired
+    PoemRepository poemrepository;
 
     @GetMapping("/poem/random")
     @ResponseBody
