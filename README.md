@@ -6,6 +6,8 @@
 
 #### Usage: Select API Link above. Refresh browser to get a random poem.
 
-#### API used in [Cheer-Me-App](https://cheer-me-app.herokuapp.com/) Project, 'Ode to General Assembly' section
+#### API used in [Cheer-Me-App (Live)](https://cheer-me-app.herokuapp.com/) Project, 'Ode to General Assembly' section
+
+#### More Details in [Cheer-Me-App in GitHub](https://github.com/mmborres/cheer-me-app/edit/master/README.md)
 
 ![Humor Poem API in Use](browser1.png "Poem API in use")
