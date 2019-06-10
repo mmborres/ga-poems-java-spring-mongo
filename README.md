@@ -11,3 +11,7 @@
 #### More Details in [Cheer-Me-App in GitHub](https://github.com/mmborres/cheer-me-app/edit/master/README.md)
 
 ![Humor Poem API in Use](browser1.png "Poem API in use")
+
+Random Poem (Responsive screen)
+
+![Humor Poem](ga-poem.png "Poem")
